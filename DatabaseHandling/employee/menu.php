@@ -1,0 +1,1 @@
+<h3> <a href="list.php">List</a>  | <a href="add-employee.php">Add</a>  | <a href="update.php">Update</a>  | <a href="delete.php">Delete</a> </h3>
